@@ -1,3 +1,9 @@
+#this file is the trained file which we have programmed in the face_recog.py
+#like we have trained this file using aces of mode, Jonny depp and trump
+#so it can recognise the 3 people mentioned above,  we just need to call this file in the program where we need to insert the photo and recognise it 
+#as we have done in the file face_reconisation.py
+
+
 %YAML:1.0
 ---
 opencv_lbphfaces:
